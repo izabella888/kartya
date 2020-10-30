@@ -1,0 +1,21 @@
+#kartya {
+  width: 10%;
+  height: 10%;
+  background-image: url (freedom.jpg);
+}
+
+.idezet {
+  margin-bottom: -1000px;
+  margin-top: -1000px;
+  padding-top: -2rem;
+  width: 130%;
+font-size: 50pt;
+  height: 100%;
+text-align: center;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.szerzo {
+  font-size: 25pt;
+}
