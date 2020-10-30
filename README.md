@@ -1,0 +1,2 @@
+# kartya
+gyakorlas
